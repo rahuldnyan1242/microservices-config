@@ -4,8 +4,8 @@ spring:
     username: root
     password: Madhura@58
     driver-class-name: com.mysql.cj.jdbc.Driver
-  application:
-    name: Config-Default
+#   application:
+#     name: Config-Default
     
 eureka:
   instance:
