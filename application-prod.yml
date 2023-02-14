@@ -1,1 +1,8 @@
-
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/microservices
+    username: root
+    password: Madhura@58
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  application:
+    name: Config-PROD
